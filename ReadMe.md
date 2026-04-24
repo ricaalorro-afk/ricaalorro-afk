@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring QA & Data Engineer | IT Student<br>Passionate about data visualization, pipelines, and software quality. Skilled in Power BI, Tableau, R Studio, and Postman. Managing projects with Jira and Trello. Detail-oriented, results-driven, and ready to bring value to a team.
+Aspiring QA & Data Engineer | IT Student<br>Passionate about data visualization, pipelines, and software quality. Exploring Power BI, Tableau, R Studio, and Postman. Managing projects with Jira and Trello. Detail-oriented, results-driven, and ready to bring value to a team.
 
 
 ## 🌐 Socials:
